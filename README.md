@@ -15,7 +15,7 @@
 > LC PART 1 사진 묘사
 - 사람의 주요 동자기이난 사물의 상태, 위치 등 파악
 - 사진을 보며 떠오르는 표현들을 기억하라!
-  [] 1인 사진 주요 표현 : wearing(상태) / putting on(동작) 입고 있다. / leaning against : 기대어 있다. * aginst : 반대에서 *
+[] 1인 사진 주요 표현 : wearing(상태) / putting on(동작) 입고 있다. / leaning against : 기대어 있다. * aginst : 반대에서 *
 ### DAY 2
 > 토익 단어 시험 DAY 4 ~ DAY 6 100점
 >
