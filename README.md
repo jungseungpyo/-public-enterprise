@@ -23,6 +23,8 @@
 > LC 기출 문제집 2회 PART 1~4 : 53/100
 >
 > RC 기출 문제집 2회 PART 5,6 : 26/47
+>
+> 사물 풍경 사진 주요 위치 표현 : against : ~에 기대어 / along : ~을 따라 / be filled[covered] with =be full of : ~로 가득 차[뒤덮여] 있다. / be hung[hanging] : 걸려 있다.
 ### DAY 3
 > 토익 단어 시험 DAY 7 ~ DAY 9 98점
 >
@@ -31,7 +33,7 @@
 > RC 기출 문제집 2회 PART 5,6 : 22/47
 >
 ### DAY 4
-> 토익 단어 시험 DAY 4 ~ DAY 6 88점
+> 토익 단어 시험 DAY 10 ~ DAY 12 88점
 >
 > LC 기출 문제집 4회 PART 1~4 : 51/100
 >
