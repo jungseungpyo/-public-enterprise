@@ -25,6 +25,20 @@
 > RC 기출 문제집 2회 PART 5,6 : 26/47
 >
 - 사물 풍경 사진 주요 위치 표현 : against : ~에 기대어 / along : ~을 따라 / be filled[covered] with =be full of : ~로 가득 차[뒤덮여] 있다. / be hung[hanging] : 걸려 있다.
+
+> LC PART 2 질의응답
+- 질문의 앞부분에 중요한 키워드 기억하기 (의문사만 들어도 정답 유추 가능!!!)
+
+- 오답 소거
+- 질문에서 들렸던 발음이 포함된 보기는 피하기
+- 의문사 의문문의 경우 Yes/No로 대답했다면 무조건 오답!!!
+
+** 만능 답변(정답) **
+1. I don't know / I have no idea : 모르겠어요.
+2. I'll check / I'll find out : 알아볼게요.
+3. ~가 알아요 또는 ~에게 물어보세요
+- ex) The manager might know : 관리자가 알고 있을 거예요.
+- ex) Check with Jake : 제이크에게 확인해 보세요.
 ### DAY 3
 > 토익 단어 시험 DAY 7 ~ DAY 9 98점
 >
