@@ -54,6 +54,17 @@
 3. ~가 알아요 또는 ~에게 물어보세요
 - ex) The manager might know : 관리자가 알고 있을 거예요.
 - ex) Check with Jake : 제이크에게 확인해 보세요.
+
+> RC PART 5
+- 대명사 종료 : 인칭 대명사, 지시 대명사, 부정 대명사
+- 명사의 역할 : 명사는 문장에서 주어, 목적어, 보어 역할을 할 수 있다.
+- 명사의 자리 관사(a/an/the) 뒤, 소유격 뒤, 형용사 뒤는 명사 자리이다.
+> 복합명사: 명사+명사
+- job offer(일자리 제안), registration fee(등록비), customer satisfaction(고객 만족), safety regulations(안전 규정)
+> 가산 명사 : 셀 수 있는 며앗
+- 가산 명사는 단수와 복수로 쓸 수 있고, 단수인 경우 혼자 쓸 수 없고, 관사(a/an/the)나 소유격과 함께 쓴다.
+> 불가산 명사 : 셀 수 없는 명사
+- coffee(커피), information(정보), safety(안전), furniture(가구), advise(충고), management(관리), luggage(수화물), equipment(장비), merchandise(상품), permission(허가)
 ### DAY 3
 > 토익 단어 시험 DAY 7 ~ DAY 9 98점
 >
@@ -73,7 +84,7 @@
 > 5,6,7교시 모의토익 시험
 > 토익 점수 : 
 ### DAY 6
-> 토익 단어 시험 DAY 13 ~ DAY 15
+> 토익 단어 시험 DAY 13 ~ DAY 15 90점
 >
 ### DAY 7
 > 토익 단어 시험 DAY 16 ~ DAY 18
