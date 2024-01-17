@@ -66,7 +66,11 @@
 - coffee(커피), information(정보), safety(안전), furniture(가구), advise(충고), management(관리), luggage(수화물), equipment(장비), merchandise(상품), permission(허가)
 >인칭 대명사의 격
 - 주격은 주어 자리, 목적격은 목적어 자리, 소유격은 명사 앞에 온다.
-  [] 주어와 목적어가 같은 대상일 때 목적어 자리에는 재귀 대명사가 온다.
+- 주어와 목적어가 같은 대상일 때 목적어 자리에는 재귀 대명사가 온다.
+>지시 대명사 that과 those
+- 단수 명사나 불가산 명사면 that, 복수 명사면 those를 쓴다.  those who(~하는 사람들)
+- The number of + 복수명사 단수취급
+- A number of + 복수명사 복수취급
 ### DAY 3
 > 토익 단어 시험 DAY 7 ~ DAY 9 98점
 >
@@ -76,6 +80,16 @@
 >
 - Be동사, Do동사, Have동사로 시작하는 질문은 Yes/ No로 응답 할 수 있으며, 생략하고 부연 설명만으로도 응답 가능하다.
 - Be동사, Do동사, Have동사들은 경험, 완료된 동사이다.
+> 형용사의 역할
+- 명사를 수식하는 역할과 보어 역할
+> 부사의 형태
+- 형용사 뒤에 -ly => 부사
+- 명사 + ly => 형용사
+- finally(마침내), currently(현재), directly(직접), regularly(정기적으로)
+> 토익에 자주 나오는 형용사 표현
+- be available for(~할 수 있다, ~을 위한 시간이 있다), be responsible for(~에 책임이 있다), be skilled at(~에 능숙하다), be eligible for(~에 자격이 있다), be able to부정사(~할 수 있다), be likely to부정사(~할 것 같다)
+> 혼동하기 쉬운 부사
+- lately(최근), nearly(거의,대략), shortly(곧), highly(매우)
 ### DAY 4
 > 토익 단어 시험 DAY 10 ~ DAY 12 88점
 >
