@@ -66,7 +66,7 @@
 - coffee(커피), information(정보), safety(안전), furniture(가구), advise(충고), management(관리), luggage(수화물), equipment(장비), merchandise(상품), permission(허가)
 >인칭 대명사의 격
 - 주격은 주어 자리, 목적격은 목적어 자리, 소유격은 명사 앞에 온다.
-  [주어와 목적어가 같은 대상일 때 목적어 자리에는 재귀 대명사가 온다.]
+  [] 주어와 목적어가 같은 대상일 때 목적어 자리에는 재귀 대명사가 온다.
 ### DAY 3
 > 토익 단어 시험 DAY 7 ~ DAY 9 98점
 >
