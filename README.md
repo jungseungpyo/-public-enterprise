@@ -104,15 +104,23 @@
 >
 > RC PART 5
 >
-> 현재 : 동사원형/동사 원형+(e)s
+> 현재 : 동사원형/동사 원형 + (e)s
 - 현재의 상태나 반복되는 일, 일반적인 사실
 - 단서 표현 : always(항상), often(종종), usually(보통), every day[week] (매일(주))
-> 과거 : 동사원형+(e)d
+> 과거 : 동사원형 + (e)d
 - 과거의 일이나 상태
 - 단서 표현 : yesterday(어제), recently(최근에), last week[month] (지난주(달)), 시간 표현+ago(~안에)
 > 미래 : will + 동사원형/be going to+동사원형
 - 미래에 일어난 일
 - 단서 표현 : tomorrow(내일), soon(곧), next week[month](다음 주[달]), upcoming(다가오는)
+> 현재 진행 : is + -ing / are + -ing
+- 현재 진행 중인 일이나 동작
+> 현재 완료 : have[has] + 과거분사(p.p)
+- 과거에서 현재까지 지속되거나 완료된 일
+- 단서 표현 : since + 과거 (~이래로), for + 기간(~동안), over the last[past]+ 기간(지난 ~동안)
+> 과거 완료 : had + 과거분사(p.p)
+- 과거 어느 때보다 더 전에 있었던 일
+- 단서 표현 : before + 과거(~전에)
 ### DAY 5
 > 5,6교시 모의토익 시험
 > 토익 점수 : 335점
