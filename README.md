@@ -78,6 +78,7 @@
 >
 > RC 기출 문제집 2회 PART 5,6 : 22/47
 >
+> LC PART 2 질의응답
 - Be동사, Do동사, Have동사로 시작하는 질문은 Yes/ No로 응답 할 수 있으며, 생략하고 부연 설명만으로도 응답 가능하다.
 - Be동사, Do동사, Have동사들은 경험, 완료된 동사이다.
 > RC PART 5
@@ -90,6 +91,8 @@
 - finally(마침내), currently(현재), directly(직접), regularly(정기적으로)
 > 토익에 자주 나오는 형용사 표현
 - be available for(~할 수 있다, ~을 위한 시간이 있다), be responsible for(~에 책임이 있다), be skilled at(~에 능숙하다), be eligible for(~에 자격이 있다), be able to부정사(~할 수 있다), be likely to부정사(~할 것 같다)
+> 혼동하기 쉬운 형용사
+- confidential(비밀의), extensive(넓은), impressive(인상적인), informative(유익한)
 > 혼동하기 쉬운 부사
 - lately(최근), nearly(거의,대략), shortly(곧), highly(매우)
 ### DAY 4
@@ -98,6 +101,18 @@
 > LC 기출 문제집 4회 PART 1~4 : 51/100
 >
 > RC 기출 문제집 4회 PART 5,6 : 25/47
+>
+> RC PART 5
+>
+> 현재 : 동사원형/동사 원형+(e)s
+- 현재의 상태나 반복되는 일, 일반적인 사실
+- 단서 표현 : always(항상), often(종종), usually(보통), every day[week](매일(주))
+> 과거 : 동사원형+(e)d
+- 과거의 일이나 상태
+- 단서 표현 : yesterday(어제), recently(최근에), last week[month](지난주(달)), 시간 표현+ago(~안에)
+> 미래 : will + 동사원형/be going to+동사원형
+- 미래에 일어난 일
+- 단서 표현 : tomorrow(내일), soon(곧), next week[month](다음 주[달]), upcoming(다가오는)
 ### DAY 5
 > 5,6교시 모의토익 시험
 > 토익 점수 : 335점
