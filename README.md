@@ -106,10 +106,10 @@
 >
 > 현재 : 동사원형/동사 원형+(e)s
 - 현재의 상태나 반복되는 일, 일반적인 사실
-- 단서 표현 : always(항상), often(종종), usually(보통), every day[week](매일(주))
+- 단서 표현 : always(항상), often(종종), usually(보통), every day[week] (매일(주))
 > 과거 : 동사원형+(e)d
 - 과거의 일이나 상태
-- 단서 표현 : yesterday(어제), recently(최근에), last week[month](지난주(달)), 시간 표현+ago(~안에)
+- 단서 표현 : yesterday(어제), recently(최근에), last week[month] (지난주(달)), 시간 표현+ago(~안에)
 > 미래 : will + 동사원형/be going to+동사원형
 - 미래에 일어난 일
 - 단서 표현 : tomorrow(내일), soon(곧), next week[month](다음 주[달]), upcoming(다가오는)
